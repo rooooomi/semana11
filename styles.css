@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(150, 226, 182);
+    display: flex;
+    justify-content: center;
+    background-image: url(Blue-Bulldog-and-Sausage-Dog-Pattern-Pet-Wallpaper-Mural-Plain.webp);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+#contenedor {
+
+   width: 500px;
+    background-color: rgb(233, 165, 165);
+    padding-top: 40px;
+
+}
+
+#foto {
+    width: 500px;
+    border: 5px solid #fff;
+   margin-right: 300px;
+   margin-left: 50px;
+   margin-top: 50px;
+   border-radius: 40px;
+}
+
+#btn{
+    width: 200px;
+    height: 70px;
+    float: left;
+    margin-top: 250px;
+    margin-left: 150px;
+    box-shadow: 8px 8px rgb(4, 72, 99);
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    background-color: #fff;
+    color: #000;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
